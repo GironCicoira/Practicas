@@ -1,2 +1,2 @@
-# Practicas
-Practicando Python
+# Pequeña Red Social
+
